@@ -1,3 +1,4 @@
+//На шахматной доске расставить 8 ферзей так, чтобы они не били друг друга.
 public class EightQueens {
     final int queens = 8;
 
